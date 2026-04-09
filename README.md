@@ -1,10 +1,10 @@
 # awesome-apives
-160+ Manually Curated APIs  for Developers | AI, Travel, Payments, Gaming ,crypto,&amp; More
+200+ Manually Curated APIs  for Developers | AI, Travel, Payments, Gaming ,crypto,&amp; More
 
 
 # 🐝 APIVES — Curated API Directory
 
-> **160+ production-ready APIs.**
+> **200+ production-ready APIs.**
 > Manually reviewed. Pricing verified. 
 > Endpoints documented.
 >
@@ -473,7 +473,7 @@ Or submit directly at:
 ## 📊 Directory Stats
 
 ```
-Total APIs:     160+
+Total APIs:     200+
 Categories:     18
 Free APIs:      40+
 Freemium APIs:  60+
