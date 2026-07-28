@@ -381,6 +381,7 @@ Every API in this directory is:
 | **CoinGecko Crypto** | CoinGecko | Crypto prices, Market data | Freemium | Low |
 | **CoinCap Crypto Market** | CoinCap | Real-time crypto prices | Free | Low |
 | **Alchemy Blockchain** | Alchemy | Ethereum, NFT data, Web3 | Freemium | Low |
+| **AgentServices** | AgentServices | x402-paid crypto market data, 37 MCP tools | Pay-per-call | Low |
 
 ---
 
