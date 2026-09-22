@@ -309,6 +309,7 @@ Every API in this directory is:
 | **QuickChart** | QuickChart | Chart image generation | Freemium | Low |
 | **Pipedream Automation** | Pipedream | Workflow automation, Triggers | Freemium | Low |
 | **Serper.dev Google Search** | Serper | Programmatic Google search | Freemium | Low |
+| **Vend API Merchant** | Vend (paypercall.dev) | Pay-per-call web extract, search, domain & geoip APIs for AI agents, settled in Nano (XNO) | Pay-per-call | Low |
 | **Algolia Hosted Search** | Algolia | Search-as-a-service | Freemium | Low |
 
 ---
