@@ -177,6 +177,7 @@ Every API in this directory is:
 | API | Provider | Best For | Pricing | Latency |
 |-----|----------|----------|---------|---------|
 | **Amadeus Self-Service** | Amadeus | Flights, Hotels, Cars, Trips | Freemium | Low |
+| **[Bucketlist.nl Dream of the Day](https://bucketlist.nl/samenwerken#droom-van-de-dag)** | Bucketlist.nl | Daily travel and life-experience ideas (JSON, no key) | Free | Not benchmarked |
 
 > Amadeus covers:
 > ✈️ 99% global airlines
